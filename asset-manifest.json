@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Analog_clockWise/static/css/main.e3a690c6.css",
+    "main.js": "/Analog_clockWise/static/js/main.b1dda39d.js",
+    "static/js/453.a7b2113b.chunk.js": "/Analog_clockWise/static/js/453.a7b2113b.chunk.js",
+    "index.html": "/Analog_clockWise/index.html",
+    "main.e3a690c6.css.map": "/Analog_clockWise/static/css/main.e3a690c6.css.map",
+    "main.b1dda39d.js.map": "/Analog_clockWise/static/js/main.b1dda39d.js.map",
+    "453.a7b2113b.chunk.js.map": "/Analog_clockWise/static/js/453.a7b2113b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a690c6.css",
+    "static/js/main.b1dda39d.js"
+  ]
+}
